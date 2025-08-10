@@ -64,3 +64,4 @@ ENTRYPOINT ["dotnet", "${PROJECT_NAME}.dll"]
 EOL
 
 echo "Generación completada. Proyecto $PROJECT_NAME listo para usar."
+echo "continua."
